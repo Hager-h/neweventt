@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/neweventt/static/css/main.833997e8.css",
+    "main.js": "/neweventt/static/js/main.3395b349.js",
+    "static/media/intro-bg.jpg": "/neweventt/static/media/intro-bg.5759acf1c9f729de7251.jpg",
+    "static/media/speakers-img5.jpg": "/neweventt/static/media/speakers-img5.2ecf8aa05d0d93a7bbb0.jpg",
+    "static/media/speakers-img1.jpg": "/neweventt/static/media/speakers-img1.89ae60c29254c28f9944.jpg",
+    "static/media/speakers-img4.jpg": "/neweventt/static/media/speakers-img4.7f131c573a2e9a3db5ec.jpg",
+    "static/media/speakers-img3.jpg": "/neweventt/static/media/speakers-img3.f1ed8fdaff8f5c762e6b.jpg",
+    "static/media/overview-img.jpg": "/neweventt/static/media/overview-img.4f6b588236c9dd2cb60d.jpg",
+    "static/media/register-bg.jpg": "/neweventt/static/media/register-bg.75b9aa61396797ed36e0.jpg",
+    "static/media/contact-bg.jpg": "/neweventt/static/media/contact-bg.2d2570ec5a57832ba97f.jpg",
+    "static/media/spo2.jpg": "/neweventt/static/media/spo2.a31d5839d959501837bb.jpg",
+    "static/media/spo3.jpg": "/neweventt/static/media/spo3.a31d5839d959501837bb.jpg",
+    "static/media/venue-bg.jpg": "/neweventt/static/media/venue-bg.ec15499101b71fbbc8e7.jpg",
+    "static/media/spo.jpg": "/neweventt/static/media/spo.362745c962fb59b5cd5f.jpg",
+    "static/media/speakers-img2.jpg": "/neweventt/static/media/speakers-img2.570d225d9db1021b18cb.jpg",
+    "static/media/program-img1.jpg": "/neweventt/static/media/program-img1.d5739c8d7e61bbc89d06.jpg",
+    "static/media/program-img2.jpg": "/neweventt/static/media/program-img2.09bb417962228b11c8d0.jpg",
+    "static/media/program-img3.jpg": "/neweventt/static/media/program-img3.f1eb626c3f20f4376195.jpg",
+    "static/media/spo1.jpg": "/neweventt/static/media/spo1.371de5e412fdb9127fe8.jpg",
+    "static/media/program-img4.jpg": "/neweventt/static/media/program-img4.6f3aa5e806fa960efb1b.jpg",
+    "static/media/program-img8.jpg": "/neweventt/static/media/program-img8.8657414eb314b2d37df7.jpg",
+    "static/media/program-img6.jpg": "/neweventt/static/media/program-img6.367a586beaf402e9b9c6.jpg",
+    "static/media/program-img5.jpg": "/neweventt/static/media/program-img5.65dd5d11e79c06dcd715.jpg",
+    "static/media/program-img9.jpg": "/neweventt/static/media/program-img9.8643a429da99cc65c430.jpg",
+    "static/media/program-img7.jpg": "/neweventt/static/media/program-img7.df238373bde6c913f1be.jpg",
+    "index.html": "/neweventt/index.html",
+    "main.833997e8.css.map": "/neweventt/static/css/main.833997e8.css.map",
+    "main.3395b349.js.map": "/neweventt/static/js/main.3395b349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.833997e8.css",
+    "static/js/main.3395b349.js"
+  ]
+}
