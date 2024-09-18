@@ -46,7 +46,7 @@ function App() {
     <div className="App">
       <Nav isScrolled={isScrolled} />
       <Routes>
-        <Route index={true} element={<Home />} />
+        <Route  path="/" element={<Home />} />
         <Route path="/Intro" element={<Intro />} />
         <Route path="/overview" element={<Overview />} />
          <Route path="/speakers" element={<Speakers />} />
